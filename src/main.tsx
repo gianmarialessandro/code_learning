@@ -7,7 +7,8 @@ import ReactDOM from 'react-dom/client'
 import Navigation from "./components/Navigation"
 import Root from "./pages/Root";
 import JavaScript from "./pages/JavaScript";
-import 'bootstrap/dist/css/bootstrap.min.css';
+
+import "./main"
 
 const router = createBrowserRouter([
   {
