@@ -8,7 +8,7 @@ import Navigation from "./components/Navigation"
 import Root from "./pages/Root";
 import JavaScript from "./pages/JavaScript";
 
-import "./main.css"
+import "./main"
 
 const router = createBrowserRouter([
   {
